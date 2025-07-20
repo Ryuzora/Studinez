@@ -1,26 +1,30 @@
 # Studinez
 
-### ***This app is a personal project and still under development. Expect bug and unexpected behaviour***
+## **This app is a personal project and is still under development. Expect bugs and unexpected behavior.**
 
 ---
 
 ## ✨ Features
 
-* Assignments and schedule tracker
-* To Do List and daily reminder
-* Modern UI
-* Cross Flatform (yet to be tested)
-* Daily Overview
-* Light / Dark theme (More themes planned but won't be there soon)
+- Assignment and schedule tracker
+- To-Do List with daily reminders
+- Modern UI
+- Cross-platform support (not fully tested yet)
+- Daily overview dashboard
+- Light and dark themes (more themes planned for the future)
 
 ---
 
-## ℹ️ Informations
+## ℹ️ Information
 
-This app built with [Tauri](https://v2.tauri.app/) using [React](https://react.dev/) + [Tailwind](https://tailwindcss.com/)
-visit their website to learn more
+This app is built with [Tauri](https://v2.tauri.app/) using [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/), and [Vite](https://vite.dev/) as the build tool.  
+Visit their websites to learn more about each technology.
 
-## 🖥️Development
+---
+
+## 🖥️ Development
+
+To start the development server, run:
+
 ```sh
-run tauri dev
-```
+tauri dev
