@@ -43,14 +43,16 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Clone the repository
-```sh git clone https://github.com/Ryuzora/Studinez
+```sh
+git clone https://github.com/Ryuzora/Studinez
 ```
-
 2. Navigate into the project directory
-```sh cd Studinez
+```sh
+cd Studinez
 ```
 3. Install the required NPM packages
-```sh npm install
+```sh
+npm install
 ```
 **It actually just clone the repo so not ready-to-use install cause its not done BOZO**
 
@@ -65,11 +67,14 @@ just run dev for now if you want to try 🥀
 To start the development server, run:
 
 ### npm
-```sh npm tauri dev
+```sh
+npm tauri dev
 ```
 ### yarn
-```sh yarn tauri dev
+```sh
+yarn tauri dev
 ```
 ### cargo
-```sh cargo tauri build
+```sh
+cargo tauri build
 ```
