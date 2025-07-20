@@ -78,3 +78,5 @@ yarn tauri dev
 ```sh
 cargo tauri build
 ```
+
+*This is not a proper readme cause i was learning how to make a readme file lolololol*
